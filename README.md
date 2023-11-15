@@ -13,6 +13,7 @@ Widgets Application: Inspired by Windows 11, Lucore OS introduces a widget appli
 Regular Updates: Lucore OS is committed to continuous improvement, ensuring a better user experience with regular updates.
 
 # Getting Started
+Link: [Click here to download the latest version](https://example.com/download](https://drive.google.com/drive/folders/1WIh0kQyBQsTYMqKlh0By1iYDi_Zt9y0D?usp=drive_link).
 Download: Start by downloading the Lucore OS file.
 Extract: Extract the downloaded file to access the Lucore OS folder.
 Run: Open the folder and run 'Lucore OS 4.0' to experience the future of Java-based operating systems.
@@ -22,6 +23,5 @@ Development: Created by a single developer over nearly 7 months.
 Codebase: More than 50,000 lines of code, exceeding 10,000,000 characters.
 Contributions: We welcome and appreciate your contributions to make Lucore OS even better.
 Upcoming Release: Lucore 5.0 is in the works, stay updated for a notification on release day!
-
 
 Have a great day, and welcome to the future of Java-based operating systems with Lucore OS!
