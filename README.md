@@ -36,4 +36,11 @@ Release date: 2024, Jan, 1 (23:59), New Year.
 What's new: Lucore 6.0 will make Lucore even more secure, robust, and, modern. It will create new layouts that are insanely modern.
 Make it your's: With the all new extension pack creator, you can create you're very own extensions using CoreLight, our easy-to-use programming language.
 
+# Images
+Desktop/Home screen:
+![Lucore desktop](https://github.com/SuprCorp/Lucore-OS/assets/150918694/84c5fc44-60de-4de0-aa5f-2c2174d484c8)
+
+Start menu:
+![Start menu](https://github.com/SuprCorp/Lucore-OS/assets/150918694/a818c3d6-e3a9-4fb5-a823-18de3cab9c41)
+
 Have a great day, and welcome to the future of Java-based operating systems with Lucore OS!
