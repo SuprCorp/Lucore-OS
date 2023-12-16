@@ -33,7 +33,7 @@ System Requirements: (Minimum) Intel Core i3, 4GB RAM, 32GB storage, Intel Iris 
 # Lucore 6.0
 Lucore 6.0 is on the horizon, and is going to revolutionize the world of OS's.
 Release date: 2024, Jan, 1 (23:59), New Year.
-What's new: Lucore 6.0 will make Lucore even more secure, robust, and, modern. It will create new layoutsm that are insanely modern.
+What's new: Lucore 6.0 will make Lucore even more secure, robust, and, modern. It will create new layouts that are insanely modern.
 Make it your's: With the all new extension pack creator, you can create you're very own extensions using CoreLight, our easy-to-use programming language.
 
 Have a great day, and welcome to the future of Java-based operating systems with Lucore OS!
