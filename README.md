@@ -20,9 +20,20 @@ Extract: Extract the downloaded file to access the Lucore OS folder.
 Run: Open the folder and run 'Lucore OS 4.0' to experience the future of Java-based operating systems.
 
 # Project Details
-Development: Created by a single developer over nearly 7 months.
+Development: Created by a single developer over 7 months.
 Codebase: More than 390,000 lines of code, exceeding 51,000,000 characters.
 Contributions: We welcome and appreciate your contributions to make Lucore OS even better.
-Upcoming Release: Lucore 5.0 is in the works, stay updated for a notification on release day!
+Upcoming Release: Lucore 6.0 is in the works, stay updated for a notification on release day!
+
+# Information
+Lucore OS is a full-fledged OS that is very advanced.
+Size: The size of the operating system is over 430 MB.
+System Requirements: (Minimum) Intel Core i3, 4GB RAM, 32GB storage, Intel Iris Xe graphics. (Recommended) Intel Core i7, 8GB RAM, 512GB storage, Intel Iris Xe graphics.
+
+# Lucore 6.0
+Lucore 6.0 is on the horizon, and is going to revolutionize the world of OS's.
+Release date: 2024, Jan, 1 (23:59), New Year.
+What's new: Lucore 6.0 will make Lucore even more secure, robust, and, modern. It will create new layoutsm that are insanely modern.
+Make it your's: With the all new extension pack creator, you can create you're very own extensions using CoreLight, our easy-to-use programming language.
 
 Have a great day, and welcome to the future of Java-based operating systems with Lucore OS!
