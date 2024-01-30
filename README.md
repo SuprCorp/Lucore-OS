@@ -27,16 +27,20 @@ Upcoming Release: Lucore 6.0 is in the works, stay updated for a notification on
 
 # Information
 Lucore OS is a full-fledged OS that is very advanced.
-Size: The size of the operating system is over 430 MB.
+Size: The size of the operating system is less than 400 MB.
 System Requirements: (Minimum) Intel Core i3, 4GB RAM, 32GB storage, Intel Iris Xe graphics. (Recommended) Intel Core i7, 8GB RAM, 512GB storage, Intel Iris Xe graphics.
 
 # Lucore 6.0
-Lucore 6.0 is released! Go and check it out!
+Lucore 6.0 was released, you can still download it.
 What's new: Lucore 6.0 will make Lucore even more secure, robust, and, modern. It will create new layouts that are insanely modern.
 Make it your's: With the all new extension pack creator, you can create you're very own extensions using CoreLight, our easy-to-use programming language.
 
 # Lucore OS 7.0
-Yes, you heard it. Lucore OS 7.0 will be released at 14:00, Jan 30 2024. Be prepared, this is going to be awesome. With brand new games, the use of JDK 21, 20 new safety features, and more, you can be amazed for centuries. So, get you're stuff ready for the ultimate, powerful OS, to be released. Oh yeah! New look and feel accent color to fit Autumn, the upcoming season.
+Finally, it is released. With improved robust security features, encrypted data, new apps, and more, 'Make it Modern!'.
+Use it to create notes, save data, create new apps, use apps, chat with friends, play games, and much more.
+This is truly you're to-go operating system programmed in plain Java. It is the most modern OS ever programmed in plain Java!
+Surpassing JX, JNode, JavaOS, and many more Java-based operating systems, you can use the future of OS's.
+_Go check out the Releases section to find and install Lucore OS 7.0, you're to-go, secure, powerful, creative companion._
 
 # Images
 Desktop/Home screen:
