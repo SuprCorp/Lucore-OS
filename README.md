@@ -13,26 +13,23 @@ Widgets Application: Inspired by Windows 11, Lucore OS introduces a widget appli
 Regular Updates: Lucore OS is committed to continuous improvement, ensuring a better user experience with regular updates.
 
 # Getting Started
-Link: https://drive.google.com/drive/folders/13MuKbYAu3HF2RBpPAhSnsykXv0HxI1Mk?usp=sharing
-
-Download: Start by downloading the Lucore OS file.
-Extract: Extract the downloaded file to access the Lucore OS folder.
-Run: Open the folder and run 'Lucore OS 4.0' to experience the future of Java-based operating systems.
+Link: We don't provide links anymore. Sorry for the inconvenience.
+Installation Instructions: They are provided in the Releases section, at the bottom of the Lucore 7.0 release.
 
 # Project Details
-Development: Created by a single developer over 7 months.
+Development: Created by a single developer in over 8 months.
 Codebase: More than 390,000 lines of code, exceeding 51,000,000 characters.
 Contributions: We welcome and appreciate your contributions to make Lucore OS even better.
-Upcoming Release: Lucore 6.0 is in the works, stay updated for a notification on release day!
+Upcoming Release: Lucore 8.0 is in the works, stay updated for a notification on release day!
 
 # Information
 Lucore OS is a full-fledged OS that is very advanced.
 Size: The size of the operating system is less than 400 MB.
-System Requirements: (Minimum) Intel Core i3, 4GB RAM, 32GB storage, Intel Iris Xe graphics. (Recommended) Intel Core i7, 8GB RAM, 512GB storage, Intel Iris Xe graphics.
+System Requirements: (Minimum) Intel Celeron (any), 2GB RAM, 32GB storage, Intel Iris Xe graphics. (Recommended) Intel Core i5, 8GB RAM, 256GB storage, Intel Iris Xe graphics.
 
 # Lucore 6.0
 Lucore 6.0 was released, you can still download it.
-What's new: Lucore 6.0 will make Lucore even more secure, robust, and, modern. It will create new layouts that are insanely modern.
+What's new: Lucore 6.0 made Lucore even more secure, robust, and, modern. It will create new layouts that are insanely modern.
 Make it your's: With the all new extension pack creator, you can create you're very own extensions using CoreLight, our easy-to-use programming language.
 
 # Lucore OS 7.0
@@ -44,9 +41,11 @@ _Go check out the Releases section to find and install Lucore OS 7.0, you're to-
 
 # Images
 Desktop/Home screen:
-![Lucore desktop](https://github.com/SuprCorp/Lucore-OS/assets/150918694/84c5fc44-60de-4de0-aa5f-2c2174d484c8)
+![Lucore Desktop](https://github.com/SuprCorp/Lucore-OS/assets/150918694/d00e5d10-98dc-423d-865f-7537faf849fd)
+
 
 Start menu:
-![Start menu](https://github.com/SuprCorp/Lucore-OS/assets/150918694/a818c3d6-e3a9-4fb5-a823-18de3cab9c41)
+![Lucore Start 7 0](https://github.com/SuprCorp/Lucore-OS/assets/150918694/a9883eaa-8faa-4f24-b74b-064ffc029d12)
+
 
 Have a great day, and welcome to the future of Java-based operating systems with Lucore OS!
