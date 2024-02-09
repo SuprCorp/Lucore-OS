@@ -17,27 +17,28 @@ Link: We don't provide links anymore. Sorry for the inconvenience.
 Installation Instructions: They are provided in the Releases section, at the bottom of the Lucore 7.0 release.
 
 # Project Details
-Development: Created by a single developer in over 8 months.
+Development: Created by a single developer in less than 1 year.
 Codebase: More than 390,000 lines of code, exceeding 51,000,000 characters.
 Contributions: We welcome and appreciate your contributions to make Lucore OS even better.
 Upcoming Release: Lucore 8.0 is in the works, stay updated for a notification on release day!
 
 # Information
 Lucore OS is a full-fledged OS that is very advanced.
-Size: The size of the operating system is less than 400 MB.
+Size: The size of the operating system is less than 700 MB.
 System Requirements: (Minimum) Intel Celeron (any), 2GB RAM, 32GB storage, Intel Iris Xe graphics. (Recommended) Intel Core i5, 8GB RAM, 256GB storage, Intel Iris Xe graphics.
 
 # Lucore 6.0
-Lucore 6.0 was released, you can still download it.
-What's new: Lucore 6.0 made Lucore even more secure, robust, and, modern. It will create new layouts that are insanely modern.
+Lucore 6.0 was released, you can still download it, it is a bit outdated.
+What's in it: Lucore 6.0 made Lucore even more secure, robust, and, modern. It will create new layouts that are insanely modern.
 Make it your's: With the all new extension pack creator, you can create you're very own extensions using CoreLight, our easy-to-use programming language.
 
-# Lucore OS 7.0
+# Lucore OS 7.0/.1/.2/.3 (series)
 Finally, it is released. With improved robust security features, encrypted data, new apps, and more, 'Make it Modern!'.
 Use it to create notes, save data, create new apps, use apps, chat with friends, play games, and much more.
+Search anything, watch anything, find anything, save anything, create anything, have fun by doing anything, _'Make it Modern!'_.
 This is truly you're to-go operating system programmed in plain Java. It is the most modern OS ever programmed in plain Java!
 Surpassing JX, JNode, JavaOS, and many more Java-based operating systems, you can use the future of OS's.
-_Go check out the Releases section to find and install Lucore OS 7.0, you're to-go, secure, powerful, creative companion._
+_Go check out the Releases section to find and install Lucore OS 7.1 (latest release), you're to-go, secure, powerful, creative companion operating system._
 
 # Images
 Desktop/Home screen:
@@ -48,4 +49,4 @@ Start menu:
 ![Lucore Start 7 0](https://github.com/SuprCorp/Lucore-OS/assets/150918694/a9883eaa-8faa-4f24-b74b-064ffc029d12)
 
 
-Have a great day, and welcome to the future of Java-based operating systems with Lucore OS!
+# Have a great day, and welcome to the future of Java-based operating systems with Lucore OS!
