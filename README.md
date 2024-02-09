@@ -35,7 +35,9 @@ Make it your's: With the all new extension pack creator, you can create you're v
 # Lucore OS 7.0/.1/.2/.3 (series)
 Finally, it is released. With improved robust security features, encrypted data, new apps, and more, 'Make it Modern!'.
 Use it to create notes, save data, create new apps, use apps, chat with friends, play games, and much more.
+
 Search anything, watch anything, find anything, save anything, create anything, have fun by doing anything, _'Make it Modern!'_.
+
 This is truly you're to-go operating system programmed in plain Java. It is the most modern OS ever programmed in plain Java!
 Surpassing JX, JNode, JavaOS, and many more Java-based operating systems, you can use the future of OS's.
 _Go check out the Releases section to find and install Lucore OS 7.1 (latest release), you're to-go, secure, powerful, creative companion operating system._
