@@ -28,7 +28,7 @@ Size: The size of the operating system is less than 700 MB.
 System Requirements: (Minimum) Intel Celeron (any), 2GB RAM, 32GB storage, Intel Iris Xe graphics. (Recommended) Intel Core i5, 8GB RAM, 256GB storage, Intel Iris Xe graphics.
 
 # Lucore 6.0
-Lucore 6.0 was released, you can still download it, it is a bit outdated.
+Lucore 6.0 was released, you can still download it, although it's out-dated.
 What's in it: Lucore 6.0 made Lucore even more secure, robust, and, modern. It will create new layouts that are insanely modern.
 Make it your's: With the all new extension pack creator, you can create you're very own extensions using CoreLight, our easy-to-use programming language.
 
@@ -40,7 +40,8 @@ Search anything, watch anything, find anything, save anything, create anything, 
 
 This is truly you're to-go operating system programmed in plain Java. It is the most modern OS ever programmed in plain Java!
 Surpassing JX, JNode, JavaOS, and many more Java-based operating systems, you can use the future of OS's.
-_Go check out the Releases section to find and install Lucore OS 7.1 (latest release), you're to-go, secure, powerful, creative companion operating system._
+Lucore OS has never been this good. It had a rough start, but it caught up a lot, thanks for your help! We will continue to make more versions every up to 4 months.
+_Go check out the Releases section to find and install Lucore OS 7.3 (latest release), you're to-go, secure, powerful, creative companion operating system._
 
 # Images
 Desktop/Home screen:
