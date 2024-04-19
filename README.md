@@ -17,10 +17,10 @@ Link: We don't provide links anymore. Sorry for the inconvenience.
 Installation Instructions: They are provided in the Releases section, at the bottom of the Lucore 7.0 release.
 
 # Project Details
-Development: Created by a single developer in less than 1 year.
+Development: Created by a single developer in less than 2 years.
 Codebase: More than 390,000 lines of code, exceeding 51,000,000 characters.
 Contributions: We welcome and appreciate your contributions to make Lucore OS even better.
-Upcoming Release: Lucore 8.0 is in the works, stay updated for a notification on release day!
+Upcoming Release: Lucore 8.2 is in the works, stay updated for a notification on release day!
 
 # Information
 Lucore OS is a full-fledged OS that is very advanced.
@@ -36,12 +36,15 @@ Make it your's: With the all new extension pack creator, you can create you're v
 Finally, it is released. With improved robust security features, encrypted data, new apps, and more, 'Make it Modern!'.
 Use it to create notes, save data, create new apps, use apps, chat with friends, play games, and much more.
 
+# Lucore OS 8.0/.1/.2 (series)
+Yup, it's here. More sleek than ever, and ofcourse more secure than ever. _'Make it Modern!'._
+It can do anything for you, from calculating stuff, to programming a completely different operating system in 5 clicks, it's truly yours.
 Search anything, watch anything, find anything, save anything, create anything, have fun by doing anything, _'Make it Modern!'_.
 
 This is truly you're to-go operating system programmed in plain Java. It is the most modern OS ever programmed in plain Java!
 Surpassing JX, JNode, JavaOS, and many more Java-based operating systems, you can use the future of OS's.
 Lucore OS has never been this good. It had a rough start, but it caught up a lot, thanks for your help! We will continue to make more versions every up to 4 months.
-_Go check out the Releases section to find and install Lucore OS 7.3 (latest release), you're to-go, secure, powerful, creative companion operating system._
+_Go check out the Releases section to find and install Lucore OS 8.1 (latest release), you're to-go, secure, powerful, creative companion operating system._
 
 # Images
 Desktop/Home screen:
