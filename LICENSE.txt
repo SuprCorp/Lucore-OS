@@ -1,0 +1,59 @@
+--< Supr SPS License >--
+
+Version 1.0, April 2024
+
+** 1. Grant of License **
+
+This Supr SPS License (the "License") grants you a limited, non-exclusive, non-transferable
+license to use the software provided under this License (the "Software") strictly in
+accordance with the terms and conditions herein.
+
+** 2. Permitted Actions **
+
+You are permitted to:
+
+a. Modify the Software to suit your specific requirements for personal or internal business use.
+
+b. Run the Software on any compatible device or platform solely for your own use.
+
+** 3. Restrictions **
+
+You are expressly prohibited from:
+
+a. Redistributing, sharing, or making available the Software, whether in whole or in part, in any form, whether modified or unmodified.
+
+b. Selling, renting, leasing, sublicensing, or otherwise commercializing the Software.
+
+c. Decompiling, reverse-engineering, disassembling, or otherwise attempting to derive the source code of the Software, except
+as permitted by applicable law.
+
+** 4. Intellectual Property Rights **
+
+The Software and all intellectual property rights therein are and shall remain the exclusive property of the licensor.
+You acknowledge that this License does not grant you any ownership rights in the Software.
+
+** 5. Disclaimer of Warranty **
+
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, and non-infringement. The licensor does not warrant that the Software will meet your
+requirements or that its operation will be uninterrupted or error-free.
+
+** 6. Limitation of Liability **
+
+In no event shall the licensor be liable for any direct, indirect, incidental, special, exemplary, or consequential damages
+(including, but not limited to, procurement of substitute goods or services, loss of use, data, or profits, or business interruption)
+arising in any way out of the use of or inability to use the Software, even if advised of the possibility of such damage.
+
+** 7. Termination **
+
+This License is effective until terminated. The licensor reserves the right to terminate this License at any time if you breach
+any term of this License. Upon termination, you must immediately cease all use of the Software and destroy all copies of the Software in
+your possession or control.
+
+** 8. Governing Law **
+
+This License shall be governed by and construed in accordance with the laws of South Africa, without regard to its conflicts
+of law provisions.
+
+By installing, downloading, copying, or otherwise using the Software, you acknowledge that you have read, understood, and agree to be
+bound by the terms and conditions of this License. If you do not agree to these terms, you must not use the Software.
