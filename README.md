@@ -24,7 +24,7 @@ Upcoming Release: Lucore 8.2 is in the works, stay updated for a notification on
 
 # Information
 Lucore OS is a full-fledged OS that is very advanced.
-Size: The size of the operating system is less than 1.5 GB.
+Size: The size of the operating system is less than 600 MB.
 System Requirements: (Minimum) Intel Celeron (any), 2GB RAM, 32GB storage, Intel Iris Xe graphics. (Recommended) Intel Core i5, 8GB RAM, 256GB storage, Intel Iris Xe graphics.
 
 # Lucore 6.0
