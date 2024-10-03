@@ -1,4 +1,6 @@
-# Lucore-OS
+# Lucore OS
+
+**YAY!!!!!** _We are working on Lucore 8.2! We're very sorry for un-regular updates these past months, we hope you stick with us! We are on a journey to save nature, making your computing experience the best, and, improving your efficiency._
 
 # Lucore OS - The Most Modern OS in Java
 Lucore OS is not just an operating system; it's a leap into the future of Java-based computing. Born out of the ambition to redefine user experiences, Lucore OS stands as a testament to innovation and functionality.
