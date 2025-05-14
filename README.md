@@ -1,5 +1,13 @@
 # Lucore OS
 
+# Recent News
+We're excited to announce **Lucore mOS**, our newest version of Lucore! _We here at Supr Corporations are creating a new, wonderful operating system experience. With just the same morales and love of Lucore OS!_
+**We are now moving to Python (and HTML for the best, smoothest experience) for Lucore mOS!** _Lucore mOS will be on this exact same repository, and our first version is going to be: **Lucore mOS Exo-1**!_
+
+
+
+## Older news:
+
 **YAY!!!!!** _We are working on Lucore 8.2! We're very sorry for un-regular updates these past months, we hope you stick with us! We are on a journey to save nature, making your computing experience the best, and, improving your efficiency._
 
 # Lucore OS - The Most Modern OS in Java
