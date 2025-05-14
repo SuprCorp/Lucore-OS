@@ -1,4 +1,5 @@
 # Lucore OS
+_A modern, minimalistic, functional and most of all, secure, operating system programmed with love. With a mission to save nature!_
 
 # Recent News
 We're excited to announce **Lucore mOS**, our newest version of Lucore! _We here at Supr Corporations are creating a new, wonderful operating system experience. With just the same morales and love of Lucore OS!_
@@ -56,13 +57,17 @@ Surpassing JX, JNode, JavaOS, and many more Java-based operating systems, you ca
 Lucore OS has never been this good. It had a rough start, but it caught up a lot, thanks for your help! We will continue to make more versions every up to 4 months.
 _Go check out the Releases section to find and install Lucore OS 8.1 (latest release), you're to-go, secure, powerful, creative companion operating system._
 
+> Note: Lucore mOS is in the making, prepare for a whole new experience, with the same love for nature, and love for it's people! (let's not forget the love for the sweet smell of a brand new computer.)
+
 # Images
 Desktop/Home screen:
 ![Lucore Desktop](https://github.com/SuprCorp/Lucore-OS/assets/150918694/d00e5d10-98dc-423d-865f-7537faf849fd)
+> Note: Pictured is Lucore OS 7.0
 
 
 Start menu:
 ![Lucore Start 7 0](https://github.com/SuprCorp/Lucore-OS/assets/150918694/a9883eaa-8faa-4f24-b74b-064ffc029d12)
+> Note: Pictured is Lucore OS 7.0
 
 
 # Have a great day, and welcome to the future of Java-based operating systems with Lucore OS!
