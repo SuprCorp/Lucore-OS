@@ -11,7 +11,7 @@ We're excited to announce **Lucore mOS**, our newest version of Lucore! _We here
 
 **YAY!!!!!** _We are working on Lucore 8.2! We're very sorry for un-regular updates these past months, we hope you stick with us! We are on a journey to save nature, making your computing experience the best, and, improving your efficiency._
 
-# Lucore OS - The Most Modern OS in Java
+# Lucore OS - Introduction
 Lucore OS is not just an operating system; it's a leap into the future of Java-based computing. Born out of the ambition to redefine user experiences, Lucore OS stands as a testament to innovation and functionality.
 
 # Features
@@ -48,14 +48,14 @@ Finally, it is released. With improved robust security features, encrypted data,
 Use it to create notes, save data, create new apps, use apps, chat with friends, play games, and much more.
 
 # Lucore OS 8.0/.1/.2 (series)
-Yup, it's here. More sleek than ever, and ofcourse more secure than ever. _'Make it Modern!'._
+Yup, it's here. More sleek than ever, and of course more secure than ever. _'Make it Modern!'._
 It can do anything for you, from calculating stuff, to programming a completely different operating system in 5 clicks, it's truly yours.
 Search anything, watch anything, find anything, save anything, create anything, have fun by doing anything, _'Make it Modern!'_.
 
-This is truly you're to-go operating system programmed in plain Java. It is the most modern OS ever programmed in plain Java!
-Surpassing JX, JNode, JavaOS, and many more Java-based operating systems, you can use the future of OS's.
+This is truly you're go-to operating system programmed in plain Java. It is the most modern OS ever programmed in plain Java!
+Surpassing JX, JNode, JavaOS, and many more Java-based operating systems, you can use the future of OSes. _(in my opinion)_
 Lucore OS has never been this good. It had a rough start, but it caught up a lot, thanks for your help! We will continue to make more versions every up to 4 months.
-_Go check out the Releases section to find and install Lucore OS 8.1 (latest release), you're to-go, secure, powerful, creative companion operating system._
+_Go check out the Releases section to find and install Lucore OS 8.1 (current latest release), you're go-to, secure, powerful, creative companion operating system._
 
 > Note: Lucore mOS is in the making, prepare for a whole new experience, with the same love for nature, and love for it's people! (let's not forget the love for the sweet smell of a brand new computer.)
 
