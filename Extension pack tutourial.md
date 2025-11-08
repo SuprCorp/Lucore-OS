@@ -1,3 +1,7 @@
+# Please Note
+The extension packs will change heavily with Lucore mOS.
+> But this will be updated as soon as this happens.
+
 ## How to Create Extension Packs
 
 **Introduction:**
